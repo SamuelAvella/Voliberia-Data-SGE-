@@ -1,0 +1,11 @@
+id,origin,destination,departureDate,arrivalDate,seatPrice,duration_mins
+VNMWjeHrnJPeVYq0WInQ,Barcelona (BCN),Madrid (MAD),2025-06-19 23:11:00,2025-06-20 23:11:00,25,1440.0
+XM8tH6iGthUeUspD9ICI,Sevilla (SEV),Madrid (MAD),2025-06-20 13:01:00,2025-07-18 13:51:00,75,40370.0
+kOtihdvgCgxvbA4EDMKC,Barcelona (BCN),Palma (PMI),2025-03-07 16:54:00,2025-03-07 17:56:00,51,62.0
+omL0cOr2cMmjUyWSmKgK,Palma (PMI),Barcelona (AGP),2025-06-11 19:17:00,2025-06-12 19:17:00,30,1440.0
+wx3iC3sUdkL37Ty2Eea7,Malaga (AGP),Madrid (MAD),2025-06-10 19:05:00,2025-06-10 20:05:00,50,60.0
+7cadc673-2be6-4630-8,Madrid (MAD),Valencia (VLC),2025-07-29 22:24:44,2025-07-29 23:52:44,80,88.0
+107dd02c-88bc-4c04-9,Barcelona (BCN),Bilbao (BIO),2025-06-17 22:24:44,2025-06-17 23:26:44,30,62.0
+5119bf3d-623e-42ba-b,Barcelona (BCN),Sevilla (SEV),2025-07-05 22:24:44,2025-07-05 23:52:44,72,88.0
+993b524f-daec-4aa4-8,Zaragoza (ZAZ),Malaga (AGP),2025-06-15 22:24:44,2025-06-16 00:06:44,81,102.0
+ec7dede6-329e-422f-8,Valencia (VLC),Madrid (MAD),2025-06-14 22:24:44,2025-06-14 23:53:44,87,89.0
