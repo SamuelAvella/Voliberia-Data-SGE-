@@ -5,6 +5,7 @@ flights = pd.read_csv('flights.csv')
 bookings = pd.read_csv('bookings.csv')
 users = pd.read_csv('users.csv')
 
+# === Compruebo en la consola las columnas de cada csv exportado ===
 print("Columnas en flights:", flights.columns)
 print("Columnas en bookings:", bookings.columns)
 print("Columnas en users:", users.columns)
